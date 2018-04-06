@@ -1,1 +1,1 @@
-# omnipay-nordea-banklink
+# omnipay-nordea-link
