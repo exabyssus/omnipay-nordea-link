@@ -1,5 +1,5 @@
 {
-    "name": "ubrize/omnipay-nordea-link",
+    "name": "arbory/omnipay-nordea-link",
     "description": "Nordea E-payment omnipay package",
     "type": "library",
     "authors": [
