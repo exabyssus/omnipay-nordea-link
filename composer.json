@@ -1,0 +1,20 @@
+{
+    "name": "ubrize/omnipay-nordea-link",
+    "description": "Nordea E-payment omnipay package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Uldis Brize",
+            "email": "uldis@cube.lv"
+        }
+    ],
+    "autoload": {
+      "psr-4": { "Omnipay\\NordeaLink\\" : "src/" }
+    },
+    "require": {
+      "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+      "omnipay/tests": "~2.0"
+    }
+}
